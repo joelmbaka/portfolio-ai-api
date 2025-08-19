@@ -1,0 +1,8 @@
+
+
+chatbot_task:
+  description: >
+    Using the provided knowledge, answer the visitor's question: {question}
+  expected_output: >
+    A concise, helpful answer that addresses the visitor's query, grounded in Joel Mbaka's CV, and, if relevant, instructs them on how to contact him.
+  agent: chatbot

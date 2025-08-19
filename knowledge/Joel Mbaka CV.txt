@@ -1,0 +1,87 @@
+﻿Joel Mbaka
+Senior React Native Developer
+🌐  Blog – https://joelmbaka.site
+📩  Email – mbakajoe26@gmail.com
+📞  Office – +254732457324 | WhatsApp: +254705395869
+📍  Nairobi, Kenya (UTC +3)
+👍  Results-driven Senior React Engineer with 7+ years of experience in designing, developing, and maintaining high-quality, secure, and 99% crash-free web, iOS and android applications. 
+👥 My Team – 4 seasonal members
+💸  $40/hour | Monthly: $6,400 | Annual: $76,800
+Skills
+* App Design: Layouts, Animation, CSS, Tailwind, Nativewind
+* Programming Languages: JavaScript, TypeScript, Kotlin, Swift, Java, Python
+* Frameworks: Expo(React Native), Next.js(React)
+* Databases: Firebase, Supabase(PostgreSQL), Neo4j(GraphQL), Redis(caching), Mongo
+* Debugging: F12 Developer Tools, Plugins, Sentry, VS Code
+* Mobile Specifics: Geolocation & Maps SDKs, Offline-first performance, Multi-lingual
+* App Security: BurpSuite Pro(Pen Testing), IDS, OWASP Top 10
+* AI-Native Apps: Langchain, CrewAI, AWS Bedrock, NVIDIA NIM
+* Cloud Computing: AWS, GCP, Microsoft Azure, Aiven, NVIDIA NIM
+* Libraries: Jest, Cypress,  Redux, Zustand, Stripe, Pytest, FastAPI
+* Agile Methodologies: Scrum, Kanban
+* CI/CD: Github Actions, Vercel CLI, Docker, Jenkins, Expo EAS
+* Industries: Health, Education, Real Estate, Finance, Trade, Media, Legal
+Experience
+Reliable Expert Services,  London, UK - Senior React Native Engineer (Remote)
+FEB 2020 - PRESENT https://reliableexpertservices.co.uk/
+UK start-up that builds web and mobile-end applications for enterprises in media, legal, and finance.
+* Developing responsive interfaces with React Native/Expo for media clients
+* Creating secure booking applications with compliance-focused architectures
+* Building legal document automation systems with Python backend services
+* Implementing comprehensive testing strategies including unit and integration tests 
+Independent Consultant, Mobile Developer & AI Consultant (Hybrid) 
+JAN 2021 - PRESENT https://joelmbaka.site
+* Developing production-ready Android applications using React Native and Expo 
+* Creating RAG applications using LangChain and CrewAI for personalization
+* Implementing prompt engineering solutions for ChatGPT/Claude in media applications
+* Reduced crash rate to 0 % by integrating Kotlin/Swift native modules for biometric auth and secure storage
+Education
+Jomo Kenyatta University of Agriculture and Technology, Juja, Kenya 
+Bachelor of Science (BSc), Information Technology
+Graduated Nov 2024
+Portfolio (for demo purposes only)
+1. My Personal Blog
+A clean, responsive portfolio built with typed React components and Next.js. Showcases my skills, projects, and professional profile in a fast, engaging format.
+Tech
+Next.js 15 with React 19 and TypeScript 5, styled by Tailwind CSS 3, animated via Framer Motion, and using Lucide-React icons.
+Try it
+* Live - https://joelmbaka.site
+* Source Code - https://github.com/joelmbaka/portfolio
+2. Weight Loss & Fitness App
+A modern fitness tracking application built with TypeScript and Firebase.
+Tech
+React Native (Expo), TypeScript, Firebase, Expo Router, EAS CI/CD
+Role 
+I was responsible for the entire app development lifecycle from UI to backend integration.
+Try it
+* Live – https://fitness.joelmbaka.site
+* 90-sec presentation available upon request 
+3. Health Care Delivery App
+Cross-platform virtual-care platform that connects patients to licensed doctors for real-time video consultations, booking, and payments.
+Tech
+React Native (Expo), TypeScript, Supabase (Auth/RLS/Postgres), Stripe, WebRTC, EAS CI/CD
+Role 
+Lead React Native engineer within a 4-person product squad; owned architecture, mobile & web delivery
+Try it
+* Live - https://healthcare.joelmbaka.site
+* 90-sec presentation available upon request 
+4. Landlord Monthly Invoicing & Utilities App
+A cross-platform React Native app that lets property owners list, book, and manage every rental’s operations—from pricing to payments—in one mobile dashboard.
+Tech
+React Native (Expo), TypeScript, Firebase, Stripe, Expo Router, EAS CI/CD
+Role 
+Guided the app's journey as Lead React Native & Firebase developer, collaborating in a nimble 3-person team; architected solutions, designed schemas, and ensured flawless cross-platform integration.
+Try it
+* Live – https://rentals.joelmbaka.site
+* 90-sec presentation  available upon request 
+5. Hospitality & Bookings App
+Hospitality app enabling resort discovery, bookings, dining orders, and payments.
+Status: Recently deployed 
+Tech
+React Native (Expo), TypeScript, Supabase (Auth/RLS/Postgres), Stripe, Zustand, Expo Router, EAS CI/CD
+Role 
+Lead React Native & Supabase engineer within a 3-person product squad; owned architecture, schema/RLS, and cross-platform delivery
+Try it
+* Live – https://hotels.joelmbaka.site
+* 90-sec presentation available upon request 
+References available upon request.
