@@ -21,20 +21,8 @@ async def health():
 @app.post("/chat")
 async def chat(q: Query):
     try:
+        # crew.kickoff is synchronous; run in thread
         answer = await asyncio.to_thread(crew.kickoff, inputs={"question": q.question})
         return {"answer": answer}
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
-
-from fastapi.responses import StreamingResponse
-
-@app.post("/chat-stream")
-async def chat_stream(q: Query):
-    """Server-Sent Events streaming of token chunks."""
-    def generator():
-        for chunk in crew.kickoff(inputs={"question": q.question}, stream=True):
-            if chunk:
-                yield f"data: {chunk}\n\n"
-        yield "event: end\ndata: [DONE]\n\n"
-
-    return StreamingResponse(generator(), media_type="text/event-stream")
