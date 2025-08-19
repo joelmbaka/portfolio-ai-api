@@ -26,7 +26,7 @@ class PortfolioAi():
             embedder={
                 "provider": "google",
                 "config": {
-                    "model": "models/text-embeddbut we are ing-004",
+                    "model": "models/text-embedding-004",
                     "api_key": os.getenv("GOOGLE_API_KEY")
                 }
             }
