@@ -19,8 +19,17 @@ class PortfolioAi():
 
     @agent
     def chatbot(self) -> Agent:
+        # Streaming-enabled LLM (NVIDIA NIM)
+        from crewai import LLM
+        llm = LLM(
+            model=os.getenv("MODEL", "nvidia_nim/meta/llama-4-scout-17b-16e-instruct"),
+            api_key=os.getenv("NVIDIA_NIM_API_KEY"),
+            base_url=os.getenv("NVIDIA_API_BASE", "https://integrate.api.nvidia.com"),
+            stream=True  # Enable token streaming
+        )
         return Agent(
             config=self.agents_config['chatbot'],
+            llm=llm,  # Use streaming LLM
             verbose=True,
             knowledge_sources=[TextFileKnowledgeSource(file_paths=["Joel Mbaka CV.txt"])],
             embedder={
